@@ -1,6 +1,6 @@
 # 🧑‍💻 Antônio Protassio #
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack / Especialista em Segurança Ofensiva`**
 ---
 Sou Antônio Protassio, Desenvolvedor Fullstack e especialista em Segurança Ofensiva, com vasta experiência na criação de sistemas robustos e na condução de testes de penetração para garantir ambientes digitais seguros. Minha paixão pela tecnologia começou cedo, aos 13 anos, com estudos em robótica, e desde então venho aprimorando minhas habilidades em desenvolvimento e cibersegurança.
 
