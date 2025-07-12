@@ -5,8 +5,8 @@
 Sou Antônio Protassio, Desenvolvedor Fullstack e especialista em Segurança Ofensiva, com vasta experiência na criação de sistemas robustos e na condução de testes de penetração para garantir ambientes digitais seguros. <br>
 Minha paixão pela tecnologia começou cedo, aos 13 anos, com estudos em robótica, e desde então venho aprimorando minhas habilidades em desenvolvimento e cibersegurança.
 
-Atuo no mercado entregando soluções inovadoras, unindo desempenho, escalabilidade e segurança. Além disso, compartilho conhecimento e ensino tecnologia por meio das minhas redes sociais:
-📸 Instagram: https://www.instagram.com/antonioprotassio/
+Atuo no mercado entregando soluções inovadoras, unindo desempenho, escalabilidade e segurança. Além disso, compartilho conhecimento e ensino tecnologia por meio das minhas redes sociais: <br>
+"[📸 Instagram] (https://www.instagram.com/antonioprotassio/)"<br>
 ▶️ YouTube: https://www.youtube.com/@antonioprotassio
 
 Meu compromisso é evoluir constantemente, fomentar uma comunidade tech mais segura e ajudar outros profissionais a crescerem por meio de conteúdos práticos e atualizados
